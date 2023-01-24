@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Rishav0123/react-portfolio/static/css/main.95145ae1.css",
+    "main.js": "/Rishav0123/react-portfolio/static/js/main.13e88dee.js",
+    "static/media/speak_time.png": "/Rishav0123/react-portfolio/static/media/speak_time.2dfd42c296bbc05c69f0.png",
+    "static/media/url_shortner.jpg": "/Rishav0123/react-portfolio/static/media/url_shortner.160cc7cd4d3fa5f847eb.jpg",
+    "static/media/SAVE_20200402_193403.jpg": "/Rishav0123/react-portfolio/static/media/SAVE_20200402_193403.8c09af8115813b13faf4.jpg",
+    "static/media/portfolio_react.jpg": "/Rishav0123/react-portfolio/static/media/portfolio_react.f5909cc7fcc25b5cc42e.jpg",
+    "static/media/flask_blog.jpg": "/Rishav0123/react-portfolio/static/media/flask_blog.0888668d0d365c269fce.jpg",
+    "static/media/todo_list.jpg": "/Rishav0123/react-portfolio/static/media/todo_list.41fbb7b3a65d24e8ef3d.jpg",
+    "static/media/me.png": "/Rishav0123/react-portfolio/static/media/me.939c206f3db46315a395.png",
+    "static/media/tf00002110_wac (1).pdf": "/Rishav0123/react-portfolio/static/media/tf00002110_wac (1).2c68a00283632ce80c5f.pdf",
+    "index.html": "/Rishav0123/react-portfolio/index.html",
+    "main.95145ae1.css.map": "/Rishav0123/react-portfolio/static/css/main.95145ae1.css.map",
+    "main.13e88dee.js.map": "/Rishav0123/react-portfolio/static/js/main.13e88dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95145ae1.css",
+    "static/js/main.13e88dee.js"
+  ]
+}
